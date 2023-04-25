@@ -1,0 +1,52 @@
+.encabezado-verde {
+    background-color: darkgreen;
+    color: white;
+}
+
+.estilo1 {
+    text-align: center;
+    margin-left: 350px;
+    margin-right: 350px;
+    font-size: x-large;
+}
+
+.estilo2 {
+    display: flex;
+}
+
+.estilo3 {
+    margin: 0px;    
+}
+
+.top-ventas {
+    text-align: right;
+    margin-right: 130px;
+}
+
+.fondo-topventas {
+    color:white;
+    background-color: green;
+    display: flex;
+    height: 70px;
+    width: 150px;
+    text-align: center;
+  }
+
+.container {
+    position: absolute;
+    left: 80%;
+  }
+.tipo-libros-seleccion{
+    background-color: orange;
+    display: flex;
+    width: 100px;
+    text-align: center;
+}
+
+.tipo-libros{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    width: 100px;
+    text-align: center;
+    color: black;
+}
